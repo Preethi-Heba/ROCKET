@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# SQLite database
+db.sqlite3
+
+# Django secret key file if you use .env
+.env
+
+# VS Code files
+.vscode/
+
+# Node modules (if you ever use Node/JS here)
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
