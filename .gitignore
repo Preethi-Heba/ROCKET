@@ -1,5 +1,6 @@
 # Python cache
 __pycache__/
+*.pyc
 *.py[cod]
 *.pyo
 *.pyd
@@ -9,7 +10,7 @@ db.sqlite3
 
 # Django secret key file if you use .env
 .env
-
+venv/
 # VS Code files
 .vscode/
 
