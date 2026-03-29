@@ -43,7 +43,7 @@ pip install flask requests
 4️⃣ Run the application
 python3 app.py
 5️⃣ Open in browser
-http://127.0.0.1:5000
+[http://127.0.0.1:8000/students/]
 
 🔄 How It Works
 
